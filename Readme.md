@@ -10,6 +10,8 @@ First, download this application, and then run the following.
 npm install
 ```
 
+Setup environment variables by renaming the file `.env.example` to `.env`
+
 You can then run the example server by typing the following
 
 ```
